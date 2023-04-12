@@ -15,7 +15,7 @@ public class Trenerovka {
         human1.setHight(1.23);
         human1.setWeight(52.2);
         //System.out.println(human1.getAge() + human1.getName() + human1.getGender() + human1.getHight() + human1.getWeight());
-        human1.gender = enumGender.M;
+        //human1.gender = enumGender.M;
     }
 }
 class Human{
